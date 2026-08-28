@@ -1,4 +1,4 @@
-# SEC-DIP--Coin-Detection-using-OpenCV
+# WORKSHOP -4: Coin-Detection-using-OpenCV
 ### Name: Raviprasath K
 ### Reg No: 212224230225
 ## Aim:
